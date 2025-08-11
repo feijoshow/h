@@ -1,0 +1,5 @@
+{
+  "name": "AgriAI Namibia",
+  "description": "An AI-powered assistant for Namibian farmers. Upload images of soil or pests to get analysis and recommendations for crop selection and pest control.",
+  "requestFramePermissions": []
+}
